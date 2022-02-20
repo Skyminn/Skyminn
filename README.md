@@ -1,3 +1,3 @@
 # :school: Education
 ### Seoul Women's University 
-* Admissioned in 2021, Dept. of Software Convergence
+> Admissioned in 2021, Dept. of Software Convergence
