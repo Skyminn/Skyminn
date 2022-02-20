@@ -1,6 +1,6 @@
 # :purple_heart: Me
 > I love...<br>
-> :blossom: Travel, :computer: Prgramming, :tv: Drama, :iphone:Youtube
+> :blossom:Travel, :computer:Prgramming, :tv:Drama, :iphone:Youtube
 # :school: Education
 ### Seoul Women's University 
 > Admissioned in 2021<br>Dept. of Software Convergence
