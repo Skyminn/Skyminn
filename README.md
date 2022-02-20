@@ -1,7 +1,7 @@
 # :school: Education
 ### Seoul Women's University 
 > Admissioned in 2021<br>Dept. of Software Convergence
-# :nut_and_bolt:Tech Stack
+# :nut_and_bolt: Tech Stack
 > ##### Techs that I've used at least once <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
