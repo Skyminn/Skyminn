@@ -15,7 +15,6 @@
 #
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Skyminn&show_icons=true&theme=buefy)
-https://github-readme-stats.vercel.app/api?username=[Skyminn]
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyminn&layout=compact&theme=buefy)
 
