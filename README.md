@@ -3,7 +3,7 @@
 > :blossom:Travel, :computer:Programming, :tv:Drama, :iphone:Youtube
 # :school: Education
 ### Seoul Women's University 
-> Admissioned in 2021<br>Dept. of Software Convergence<br>Dept. of Bioinformatics
+> Admissioned in 2021<br>Dept. of Software Convergence
 # :nut_and_bolt: Tech Stack
 > ##### Techs that I've used at least once <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
